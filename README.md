@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Noble's Art Portfolio Website
 
 A stunning, professional, and interactive single-page portfolio website designed for an artist to showcase their work, profile, and contact information.
@@ -239,3 +240,6 @@ For questions or customization help, feel free to reach out!
 
 *Last Updated: October 2025*
 
+=======
+# noble-s_site-
+>>>>>>> 0e7de7f7598159307d0f3399706f07973a921b10
